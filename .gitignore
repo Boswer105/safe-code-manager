@@ -1,0 +1,5 @@
+safe_code.vault
+safe_code_settings.json
+__pycache__/
+*.pyc
+Thumbs.db
