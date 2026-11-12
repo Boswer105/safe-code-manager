@@ -29,6 +29,7 @@ Un gestionnaire de mots de passe **local, sécurisé et open-source**, développ
 ### Prérequis
 - [Python 3.10 ou supérieur](https://www.python.org/downloads/)
 - Windows 10/11
+- installer dépendance avec pip install -r
 
 ### 1. Cloner le projet
 ```bash
